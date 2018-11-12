@@ -14,3 +14,6 @@ ends in "App" (for example, ArrayApp.class).
 
 See Appendix A for more information. 
 
+Usage:
+javac mstw.java
+java MSTWApp
